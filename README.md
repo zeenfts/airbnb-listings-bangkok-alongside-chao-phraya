@@ -13,5 +13,5 @@ Bangkok's Chao Phraya River is a major center of the city's development process.
 
 # If needed to RUN the file inside this Repo
 1. Please, clone or download this repo first.
-2. Install the dependencies package/library by running on the terminal `pip install requirements.py` or other way (like conda).
-3. Enjoy to see the analysis inside the `.ipynb` file (could also skip to this step, only just for see the content).
+2. Install the dependencies package/library by running on the terminal `pip install requirements.txt` or other way (like conda).
+3. Enjoy to see the analysis inside the [`.ipynb`](https://github.com/zeenfts/airbnb-listings-bangkok-alongside-chao-phraya/blob/main/airbnb_notebook.ipynb) file (could also skip to this step, only just for see the content).
