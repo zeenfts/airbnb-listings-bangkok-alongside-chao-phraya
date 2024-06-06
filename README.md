@@ -5,7 +5,7 @@ Data Analysis on Python, Dashboard Tableau, &amp; Story Tableau
 
 * [Dataset Link Download! (CSV format)](https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF).
 * [Dashboard Link: alongside Chao Phraya River or NOT (Tableau)](https://public.tableau.com/views/AirbnbListingsBangkokonChaoPhrayaRiverorNOT/AirbnbChaoPhrayaDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
-* [Story Link: Airbnb Bangkok alongside Chaor Phraya River New Location Prospect (Tableau)](https://public.tableau.com/views/AirbnbListingsBangkokonChaoPhrayaRiverorNOT/AirbnbChaoPhrayaStory?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
+* [Story Link: Airbnb Bangkok alongside Chao Phraya River New Location Prospect (Tableau)](https://public.tableau.com/views/AirbnbListingsBangkokonChaoPhrayaRiverorNOT/AirbnbChaoPhrayaStory?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
 
 # Background Story
 
